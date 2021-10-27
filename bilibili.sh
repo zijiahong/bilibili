@@ -1,4 +1,4 @@
 :<<!
-[Script]
-cron "10 0 * * *" script-path=https://github.com/zijiahong/bilibili/blob/a31268371fea7024ecf6a22bec4f829550d23309/bilibili.sh,tag=bilibilitest
+[task_local]
+10 0,3,8,11,17 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js
 !
