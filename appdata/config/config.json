@@ -1,0 +1,44 @@
+{
+  "biliVerify": {
+    "biliCookies": "_uuid=030FED20-7EC8-6DF8-86A2-5B3CA361A6CA44720infoc; buvid3=4F3A0966-CFFB-403D-BFDA-BC3B4A506C2234774infoc; blackside_state=1; rpdid=|(JYl)l)kulm0J'uYkl|kYl|~; PVID=1; CURRENT_FNVAL=976; innersign=0; sid=j4dp1a3w; fingerprint=d15d9fb3380b508a4fd362bb5a781b38; buvid_fp=4F3A0966-CFFB-403D-BFDA-BC3B4A506C2234774infoc; buvid_fp_plain=4F3A0966-CFFB-403D-BFDA-BC3B4A506C2234774infoc; DedeUserID=434125222; DedeUserID__ckMd5=78e2810740b2f2a7; SESSDATA=d327d4a7%2C1650876097%2Ce5d23*a1; bili_jct=9caebe2362a5116dc61a2ace31eccb3a"
+  },
+  "taskConfig": {
+    "skipDailyTask": false,
+    "matchGame": true,
+    "showHandModel": true,
+    "predictNumberOfCoins": 3,
+    "minimumNumberOfCoins": 100,
+    "taskIntervalTime": 20,
+    "numberOfCoins": 5,
+    "coinAddPriority": 1,
+    "reserveCoins": 10,
+    "selectLike": 1,
+    "monthEndAutoCharge": true,
+    "giveGift": true,
+    "silver2Coin": true,
+    "upLive": "0",
+    "chargeForLove": "14602398",
+    "chargeDay": 28,
+    "devicePlatform": "android",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
+  },
+  "pushConfig": {
+    "SC_KEY": "",
+    "SCT_KEY": "",
+    "TG_BOT_TOKEN": "",
+    "TG_USER_ID": "",
+    "TG_USE_CUSTOM_URL": false,
+    "DING_TALK_URL": "",
+    "DING_TALK_SECRET": "",
+    "PUSH_PLUS_TOKEN": "5c68479ab34e4869ad833bc9d0190df6",
+    "WE_COM_GROUP_TOKEN": "",
+    "WE_COM_APP_CORPID": "",
+    "WE_COM_APP_CORP_SECRET": "",
+    "WE_COM_APP_AGENT_ID": 0,
+    "WE_COM_APP_MEDIA_ID": "",
+    "WE_COM_APP_TO_USER": "",
+    "PROXY_HTTP_HOST": "",
+    "PROXY_SOCKET_HOST": "",
+    "PROXY_PORT": 0
+  }
+}

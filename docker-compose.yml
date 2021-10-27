@@ -1,0 +1,15 @@
+version: "3"
+services:
+  bilibili-helper:
+    image: superng6/bilibili-helper:latest
+    container_name: bilibili-helper
+    environment:
+      - PUID=1026
+      - PGID=100
+      - TZ=Asia/Shanghai
+      # CRON=false，使用sleep;true,定时10.30运行；random，6-24时随机运行
+      - CRON=true
+    volumes:
+      - ./appdata/config:/config
+      # - ./appdata/app:/app
+    restart: unless-stopped
