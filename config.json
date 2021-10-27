@@ -1,6 +1,6 @@
 {
   "biliVerify": {
-    "biliCookies": "_uuid=030FED20-7EC8-6DF8-86A2-5B3CA361A6CA44720infoc; buvid3=4F3A0966-CFFB-403D-BFDA-BC3B4A506C2234774infoc; blackside_state=1; rpdid=|(JYl)l)kulm0J'uYkl|kYl|~; PVID=1; CURRENT_FNVAL=976; innersign=0; sid=j4dp1a3w; fingerprint=d15d9fb3380b508a4fd362bb5a781b38; buvid_fp=4F3A0966-CFFB-403D-BFDA-BC3B4A506C2234774infoc; buvid_fp_plain=4F3A0966-CFFB-403D-BFDA-BC3B4A506C2234774infoc; DedeUserID=434125222; DedeUserID__ckMd5=78e2810740b2f2a7; SESSDATA=d327d4a7%2C1650876097%2Ce5d23*a1; bili_jct=9caebe2362a5116dc61a2ace31eccb3a"
+    "biliCookies": ""
   },
   "taskConfig": {
     "skipDailyTask": false,
